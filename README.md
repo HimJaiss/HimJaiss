@@ -17,7 +17,7 @@
 - 🧠 Solved **500+ DSA problems** on LeetCode & Coding Ninjas, earning **17+ badges**
 - 🏅 **Candidate Expert (Level 7)** on Coding Ninjas — handle: **NinjaHimanshu**
 - 🏆 Secured **3rd Place** at the 2nd International Conference on Women in Multifaceted Research (ICWMR)
-- 📫 Reach me at **jaiswalhimanshu0909@gmail.com** | **+91 8292147781**
+- 📫 Reach me at **jaiswalhimanshu0909@gmail.com** 
 
 ---
 
