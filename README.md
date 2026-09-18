@@ -15,7 +15,7 @@
 - 🎓 Completed **BCA** from **Gopal Narayan Singh University, Sasaram** (CGPA: 8.75)
 - 💡 Passionate about building **full-stack** and **AI-powered** applications
 - 🧠 Solved **500+ DSA problems** on LeetCode & Coding Ninjas, earning **17+ badges**
-- 🏅 **Candidate Expert (Level 7)** on Coding Ninjas — handle: **NinjaHimanshu**
+- 🏅 **Candidate Expert (Level 7)** on Coding Ninjas 
 - 🏆 Secured **3rd Place** at the 2nd International Conference on Women in Multifaceted Research (ICWMR)
 - 📫 Reach me at **jaiswalhimanshu0909@gmail.com** 
 
