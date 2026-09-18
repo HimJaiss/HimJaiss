@@ -68,7 +68,7 @@
 
 ### 🔥 Featured Projects
 
-#### 💰 [Finly – Smart AI Personal Finance Management System](finly-two-roan.vercel.app)
+#### 💰 [Finly – Smart AI Personal Finance Management System](https://get-finly.vercel.app)
 Full-stack AI-powered personal finance platform built with **Next.js, TypeScript, Prisma ORM, and PostgreSQL**.
 - Integrated **Google Gemini AI** for automatic transaction categorization and personalized financial insights
 - Secure authentication with **Clerk** and enhanced security via **ArcJet** (rate limiting, bot prevention)
