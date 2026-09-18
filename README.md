@@ -68,7 +68,7 @@
 
 ### 🔥 Featured Projects
 
-#### 💰 [Finly – Smart AI Personal Finance Management System](https://github.com/HimJaiss)
+#### 💰 [Finly – Smart AI Personal Finance Management System](finly-two-roan.vercel.app)
 Full-stack AI-powered personal finance platform built with **Next.js, TypeScript, Prisma ORM, and PostgreSQL**.
 - Integrated **Google Gemini AI** for automatic transaction categorization and personalized financial insights
 - Secure authentication with **Clerk** and enhanced security via **ArcJet** (rate limiting, bot prevention)
@@ -77,7 +77,7 @@ Full-stack AI-powered personal finance platform built with **Next.js, TypeScript
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini AI` `Clerk` `ArcJet`
 
-#### 🎯 [FaceMark – Smart Face Recognition Attendance System](https://github.com/HimJaiss)
+#### 🎯 [FaceMark – Smart Face Recognition Attendance System](https://github.com/HimJaiss/Face_Recognition_Based_Attendance_System)
 AI-based attendance management system using **Python and OpenCV** for real-time face detection and recognition.
 - Facial recognition via **Haar Cascade Classifier** and **LBPH Face Recognizer**
 - Built a **Tkinter** desktop app for registration, dataset creation, model training, and live monitoring
